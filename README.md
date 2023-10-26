@@ -1,20 +1,24 @@
-Hey, I'm Nabsi.
+Hey, I'm Nabsi. 👋
 
-I work on projects I find particularly interesting, I've writing code for past 7 years now.
+I spend my free-time writing various of projects and I've writing code for past 7 years now.
 
 ## Languages I am most familiar with:
 
 - C
 - C++
 - C#
-- php
+- PHP
 
 ## Languages I may use sometimes:
 
 - Rust
-- Javascript/Typescript
-- python
+- JS/TS
+- Python
 
-I am particularly interested in Low-Level-Programming and closely working with computer hardware.
+# Specialities
 
-> You can contact me via e-mail `nyabsi@sovellus.cc`, thank you.
+- Low-Level-Programming
+- Networking
+- Reverse Engineering
+
+> You can contact me via e-mail `nyabsi@sovellus.cc` for inquiries, thank you.
